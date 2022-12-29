@@ -35,6 +35,6 @@
    <h1> V Ramesh Kumar, DevOps Engineer </h1>
    <h2> Contact 98434 60102 </h2>
    <h2> vrkcbe25@gmail.com</h2>
-   <h2> Contact 9843460102, 9500242629 </h2>
+   <h2> Contact 98434 60102 </h2>
   
 </form>
